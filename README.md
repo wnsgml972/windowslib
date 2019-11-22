@@ -1,4 +1,4 @@
-# queryparse
+# windowslib
 
 ## Highlights
 * tiny and easy to use windows api
